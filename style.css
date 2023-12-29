@@ -1,0 +1,130 @@
+
+#cs1{
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    background-color: orange;
+    width: 1220px;
+    color: red;
+    border-width: 2px;
+    border-color: grey;
+    border-style: solid;
+
+}
+#wktkeep {
+    height: 25px;
+    width: 1220px;
+    background-color: rgb(74, 94, 34);
+    color: white;
+    text-align: center;
+}
+.msd {
+    height: 400;
+    width: 1220px;
+    background-color: rgb(248, 247, 157);
+    float: left;
+}
+
+#stname {
+    height: 200px;
+    width: 1220px;
+    background-color: rgb(243, 9, 9);
+}
+
+    
+
+#btsman{
+    height: 25px;
+    width: 1220px;
+    background-color:rgb(74, 94, 34);
+    color: white;
+    text-align: center;
+}
+a {
+    padding: 70px;
+    font-size: 25px;
+}
+.grr{
+    padding: 100px;
+    font-size: 25px;
+}
+
+
+#allrnd {
+    height: 25px;
+    width: 1220px;
+    background-color:rgb(74, 94, 34);
+    color: white;
+    text-align: center;
+}
+
+
+
+.adh {
+    padding: 103px;
+    font-size: 25px;
+}
+
+
+.jmm {
+    padding: 107px;
+    font-size: 25px;
+}
+.dtm{
+    height: 40px;
+    width: 1220px;
+    background-color: red;
+    color: white;
+    margin-left: auto;
+}
+.rss {
+    padding: 98px;
+    font-size: 25;
+}
+
+#blers {
+    height: 25px;
+    width: 1220px;
+    background-color:rgb(74, 94, 34);
+    color: white;
+    text-align: center;
+
+}
+.cdc{
+    padding: 86px;
+    width: 1220px;
+}
+
+.rps{
+    padding: 85px;
+    width: 1220px;
+}
+
+.stt{
+    padding: 88px;
+    width: 1220px;
+}
+
+#smir {
+    height: 40px;
+    width: 400px;
+    background-color: red;
+    color: white;
+    
+}
+
+a {
+    color: white;
+}
+#clck {
+    height: 25px;
+    width: 1220px;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+#clckn{
+    color: black;
+    font-size: 16px;
+}
